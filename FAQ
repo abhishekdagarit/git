@@ -1,0 +1,2 @@
+Q. How to get all folders to get updated individually in git?
+A. This command git config --global http.sslbackend schannel
